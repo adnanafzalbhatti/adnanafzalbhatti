@@ -28,4 +28,4 @@ Telecom Engineer at **Ericsson** | Python Developer | Building tools for network
 
 #### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/adnan-afzal-b2a90415/)]
